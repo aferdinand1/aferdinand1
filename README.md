@@ -23,10 +23,6 @@ Full stack development.
 
 Projects I am looking to work on.
 
-### How to reach me:
-
-LinkedIn: Amir Ferdinand
-
 ### Pronouns:
 
 He/Him

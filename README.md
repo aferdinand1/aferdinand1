@@ -1,37 +1,37 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Amir.
 
-## Currently working on:
+### Currently working on:
 
 Software engineer bootcamp.
 Web 3.0.
 
-## Currently learning:
+### Currently learning:
 
 Python.
 
-## I'm looking to collaborate on:
+### I'm looking to collaborate on:
 
 Front end projects or full stack.
 
-## I'm looking for help with:
+### I'm looking for help with:
 
 Full stack development.
 
-## Ask me about:
+### Ask me about:
 
 Projects I am looking to work on.
 
-## How to reach me:
+### How to reach me:
 
 LinkedIn: Amir Ferdinand
 
-## Pronouns:
+### Pronouns:
 
 He/Him
 
-## Fun fact:
+### Fun fact:
 
 I like basketball.
 

@@ -6,8 +6,6 @@ My name is Amir.
 
 Software engineer bootcamp.
 
-Web 3.0.
-
 ### Currently learning:
 
 Python.

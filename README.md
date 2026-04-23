@@ -4,11 +4,11 @@ My name is Amir.
 
 ### Currently working on:
 
-Software engineer bootcamp.
+AI automations
 
 ### Currently learning:
 
-Python.
+AI
 
 ### I'm looking to collaborate on:
 
